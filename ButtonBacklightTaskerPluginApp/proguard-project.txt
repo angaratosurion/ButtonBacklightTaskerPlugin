@@ -1,0 +1,6 @@
+# This improves obfuscation and moves non-public classes to their own namespace.
+-repackageclasses 'net.pariskoutsioukis.tasker.plugin.buttonvacklightconttroller'
+
+# Ensure that stacktraces are reversible.
+-renamesourcefileattribute SourceFile
+-keepattributes SourceFile,LineNumberTable

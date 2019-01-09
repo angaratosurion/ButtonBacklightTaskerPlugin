@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twofortyfouram:android-plugin-client-sdk-for-locale-4.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-plugin-client-sdk-for-locale-4.0.3.aar/0835f29b917dc23406957b164ab67cc8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-plugin-client-sdk-for-locale-4.0.3.aar/0835f29b917dc23406957b164ab67cc8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twofortyfouram/android-plugin-client-sdk-for-locale/4.0.3/db910761e8d6757d73a3a224dd4fe0f8ba69f0b9/android-plugin-client-sdk-for-locale-4.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

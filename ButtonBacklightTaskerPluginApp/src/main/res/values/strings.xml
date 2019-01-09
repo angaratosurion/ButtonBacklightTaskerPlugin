@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App name -->
+    <string name="app_name" translatable="false">Button Backlight Plug-in for Tasker</string>
+
+    <!-- Name of the plug-in that appears in Locale -->
+    <string name="plugin_name" translatable="false">Button Backlight Tasker Plugin</string>
+    <string name="app_name_beta" translatable="false">Button Backlight(Beta) Plug-in for Tasker</string>
+
+    <!-- Name of the plug-in that appears in Locale -->
+    <string name="plugin_name_beta" translatable="false">Button Backlight(Beta) Tasker Plugin</string>
+
+    <!-- Hint text in the toast edit text -->
+    <string name="message_hint">uselss text</string>
+
+    <!-- Discard menu item -->
+    <string name="menu_discard_changes">Discard changes</string>
+    <string name="EnableBacklightButton">Enable Backlight Button</string>
+    <string name="UnsupportedRomOrDevice">The Device,Rom or Kernel  is not supported</string>
+
+</resources>

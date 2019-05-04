@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/twofortyfouram/android-toast-setting-plugin-for-locale.svg?style=svg)](https://circleci.com/gh/twofortyfouram/android-toast-setting-plugin-for-locale)
+
 
 # Overview
 [Locale](https://play.google.com/store/apps/details?id=com.twofortyfouram.locale) allows developers to create plug-in conditions and settings.  The android-toast-setting-plugin-for-locale implements an example plug-in setting.  This project is the final layer of the [Locale Developer Platform](http://www.twofortyfouram.com/developer).

@@ -58,6 +58,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -69,7 +70,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -93,7 +93,7 @@
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="C:/Program Files (x86)/Android/android-sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ScreenOriantationTaskerPlugin/keystore.jks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/keystore.jks" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -239,7 +239,7 @@
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1448" height="865" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25687408" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25687408" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" side_tool="true" weight="0.25" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -261,7 +261,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Gradle Console" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="13" sideWeight="0.49782923" visible="true" weight="0.32766616" />
+      <window_info anchor="bottom" id="Build" order="13" sideWeight="0.49782923" weight="0.3264402" />
       <window_info anchor="bottom" id="Android Profiler" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="15" weight="0.32791728" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />

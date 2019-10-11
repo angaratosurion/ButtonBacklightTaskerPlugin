@@ -33,7 +33,7 @@
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="KEY_STORE_PATH" value="G:\AutoSyncWithParis-Server\My Programs\Android sdk projects\TaskerPlugins\ButtonBacklightTaskerPlugin\ButtonBacklightTaskerPluginApp\keystore.jks" />
-    <option name="KEY_ALIAS" value="bookerdroidkey" />
+    <option name="KEY_ALIAS" value="key0" />
     <option name="REMEMBER_PASSWORDS" value="true" />
     <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
@@ -58,7 +58,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="AndroidView" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -70,8 +72,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,7 +261,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Gradle Console" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="13" sideWeight="0.49782923" weight="0.3264402" />
+      <window_info anchor="bottom" id="Build" order="13" sideWeight="0.49782923" visible="true" weight="0.32612056" />
       <window_info anchor="bottom" id="Android Profiler" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="15" weight="0.32791728" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />

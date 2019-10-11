@@ -32,7 +32,7 @@
     <leaf />
   </component>
   <component name="GenerateSignedApkSettings">
-    <option name="KEY_STORE_PATH" value="G:\AutoSyncWithParis-Server\My Programs\Android sdk projects\TaskerPlugins\ButtonBacklightTaskerPlugin\keystore.jks" />
+    <option name="KEY_STORE_PATH" value="G:\AutoSyncWithParis-Server\My Programs\Android sdk projects\TaskerPlugins\ButtonBacklightTaskerPlugin\ButtonBacklightTaskerPluginApp\keystore.jks" />
     <option name="KEY_ALIAS" value="bookerdroidkey" />
     <option name="REMEMBER_PASSWORDS" value="true" />
     <option name="BUILD_TARGET_KEY" value="apk" />

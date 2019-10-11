@@ -16,3 +16,4 @@ gradle-app.setting
 /build/
 keystore.jks
 ButtonBacklightTaskerPluginApp/deployment_cert.der
+*.jks

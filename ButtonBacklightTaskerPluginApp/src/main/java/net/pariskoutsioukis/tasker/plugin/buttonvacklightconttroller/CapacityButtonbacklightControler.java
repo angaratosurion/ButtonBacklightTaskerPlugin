@@ -56,11 +56,14 @@ public class CapacityButtonbacklightControler
         catch (Exception ex)
             {
             Toast.makeText(context, ex.toString(), Toast.LENGTH_LONG).show();
-            try {
+            //
                 ErroHandling(ex);
-            } catch (IOException e) {
-                //
-            }
+           // }
+            /*
+            catch (IOException e)
+            {
+                Base.ErroHandling(e);
+            }*/
 
         }
     }
@@ -91,11 +94,9 @@ public class CapacityButtonbacklightControler
          catch (Exception ex)
             {
             Toast.makeText(context, ex.toString(), Toast.LENGTH_LONG).show();
-            try {
+
                 ErroHandling(ex);
-            } catch (IOException e) {
-                //
-            }
+
             return false;
 
         }

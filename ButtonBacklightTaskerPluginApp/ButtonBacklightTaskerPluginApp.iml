@@ -95,6 +95,8 @@
     <orderEntry type="library" name="Gradle: com.twofortyfouram:android-spackle:2.0.3@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.twofortyfouram:android-assertion:1.2.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.twofortyfouram:android-plugin-api-for-locale:1.0.4@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.vistrav:ask:2.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.vistrav:pop:2.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7:25.4.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:animated-vector-drawable:25.4.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable:25.4.0@aar" level="project" />

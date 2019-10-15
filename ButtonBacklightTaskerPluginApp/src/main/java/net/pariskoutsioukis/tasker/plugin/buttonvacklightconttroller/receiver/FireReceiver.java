@@ -81,11 +81,9 @@ public final class FireReceiver extends AbstractPluginSettingReceiver {
     catch (Exception ex)
     {
         Toast.makeText(context,ex.toString(),Toast.LENGTH_LONG).show();
-        try {
+
             ErroHandling(ex);
-        } catch (IOException e) {
-            //
-        }
+
 
     }
     }

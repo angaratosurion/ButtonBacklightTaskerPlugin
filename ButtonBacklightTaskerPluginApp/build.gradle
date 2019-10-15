@@ -10,6 +10,7 @@ dependencies {
     compile group:'com.twofortyfouram', name:'android-plugin-api-for-locale', version:"${TWOFORTYFOURAM_PLUGIN_API_VERSION_MATCHER}"
     compile group:'com.twofortyfouram', name:'android-plugin-client-sdk-for-locale', version:"${TWOFORTYFOURAM_PLUGIN_CLIENT_SDK_VERSION_MATCHER}"
     compile group:'com.twofortyfouram', name:'android-spackle', version:"${TWOFORTYFOURAM_SPACKLE_VERSION_MATCHER}"
+    implementation 'com.vistrav:ask:2.2'
 
     //androidTestCompile group:'com.twofortyfouram', name:'android-test', version:"${TWOFORTYFOURAM_TEST_VERSION_MATCHER}"
 }

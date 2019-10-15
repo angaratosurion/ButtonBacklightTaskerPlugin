@@ -14,7 +14,7 @@ import java.util.Date;
  */
 
 public class Base {
-    public static void ErroHandling(Exception ex) throws IOException {
+    public static void ErroHandling(Exception ex) {//throws IOException {
 
         File f = new File(Environment.getExternalStorageDirectory()+"/ButtonBacklightTaskerPugin/Logs");
         File ef =new  File(Environment.getExternalStorageDirectory()+"/ButtonBacklightTaskerPugin/Logs/error.txt");

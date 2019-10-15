@@ -26,6 +26,7 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 
 
+import net.pariskoutsioukis.core.PermisionMngr;
 import net.pariskoutsioukis.tasker.plugin.buttonvacklightconttroller.R;
 import net.pariskoutsioukis.tasker.plugin.buttonvacklightconttroller.bundle.PluginBundleValues;
 import com.twofortyfouram.locale.sdk.client.ui.activity.AbstractAppCompatPluginActivity;
@@ -41,6 +42,7 @@ public final class EditActivity extends AbstractAppCompatPluginActivity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.main);
+        PermisionMngr.Request(this);
 
         /*
          * To help the user keep context, the title shows the host's name and the subtitle

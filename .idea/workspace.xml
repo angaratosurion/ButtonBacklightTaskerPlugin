@@ -11,19 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8798fa9-3479-4217-9b09-19cfb9f8a3c7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vistrav_ask_2_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vistrav_pop_2_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/ButtonBacklightTaskerPluginApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/ButtonBacklightTaskerPluginApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/release/ButtonBacklightTaskerPluginApp-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/release/ButtonBacklightTaskerPluginApp-release.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/release/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/release/output.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/tasker/plugin/buttonvacklightconttroller/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/tasker/plugin/buttonvacklightconttroller/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/tasker/plugin/buttonvacklightconttroller/CapacityButtonbacklightControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/tasker/plugin/buttonvacklightconttroller/CapacityButtonbacklightControler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/tasker/plugin/buttonvacklightconttroller/receiver/FireReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/tasker/plugin/buttonvacklightconttroller/receiver/FireReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/tasker/plugin/buttonvacklightconttroller/ui/activity/EditActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/tasker/plugin/buttonvacklightconttroller/ui/activity/EditActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/core/PermisionMngr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="696">
+              <caret line="41" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="41" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,10 +50,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gradle.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -79,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/tasker/plugin/buttonvacklightconttroller/receiver/FireReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="363">
@@ -469,7 +471,7 @@
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1448" height="865" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34008682" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34008682" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" side_tool="true" weight="0.25" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -485,7 +487,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50289434" side_tool="true" visible="true" weight="0.32612056" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50289434" side_tool="true" visible="true" weight="0.32612056" />
       <window_info anchor="bottom" id="Android Monitor" order="8" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" />
@@ -509,13 +511,6 @@
     <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-102" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/tasker/plugin/buttonvacklightconttroller/Base.java">
@@ -547,20 +542,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/core/PermisionMngr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -575,6 +560,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/src/main/java/net/pariskoutsioukis/core/PermisionMngr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="41" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ButtonBacklightTaskerPluginApp/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="40" />
         </state>
       </provider>
     </entry>
